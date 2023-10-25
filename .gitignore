@@ -1,6 +1,8 @@
 *.csv
-results/
-results/plots
+results/*
 !final.csv 
 #ignore all data files
 #except final.csv
+!results/data/
+#ignore all contents of the results folder
+#except results/data/ content
