@@ -6,3 +6,4 @@ results/*
 !results/data/
 #ignore all contents of the results folder
 #except results/data/ content
+log*
