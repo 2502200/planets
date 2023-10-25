@@ -1,3 +1,6 @@
 *.csv
 results/
 results/plots
+!final.csv 
+#ignore all data files
+#except final.csv
